@@ -1,0 +1,15 @@
+/Users/yozawiratama/Projects/Readbuk/Application/bin/Debug/net6.0/Application.deps.json
+/Users/yozawiratama/Projects/Readbuk/Application/bin/Debug/net6.0/Application.dll
+/Users/yozawiratama/Projects/Readbuk/Application/bin/Debug/net6.0/Application.pdb
+/Users/yozawiratama/Projects/Readbuk/Application/bin/Debug/net6.0/Domain.dll
+/Users/yozawiratama/Projects/Readbuk/Application/bin/Debug/net6.0/Domain.pdb
+/Users/yozawiratama/Projects/Readbuk/Application/obj/Debug/net6.0/Application.csproj.AssemblyReference.cache
+/Users/yozawiratama/Projects/Readbuk/Application/obj/Debug/net6.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yozawiratama/Projects/Readbuk/Application/obj/Debug/net6.0/Application.AssemblyInfoInputs.cache
+/Users/yozawiratama/Projects/Readbuk/Application/obj/Debug/net6.0/Application.AssemblyInfo.cs
+/Users/yozawiratama/Projects/Readbuk/Application/obj/Debug/net6.0/Application.csproj.CoreCompileInputs.cache
+/Users/yozawiratama/Projects/Readbuk/Application/obj/Debug/net6.0/Application.csproj.CopyComplete
+/Users/yozawiratama/Projects/Readbuk/Application/obj/Debug/net6.0/Application.dll
+/Users/yozawiratama/Projects/Readbuk/Application/obj/Debug/net6.0/refint/Application.dll
+/Users/yozawiratama/Projects/Readbuk/Application/obj/Debug/net6.0/Application.pdb
+/Users/yozawiratama/Projects/Readbuk/Application/obj/Debug/net6.0/ref/Application.dll

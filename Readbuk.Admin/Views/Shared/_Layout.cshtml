@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Readbuk.Admin</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Readbuk.Admin.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <partial name="_Navbar" />
+    <div class="container box is-max-widescreen mt-6 pt-6 has-background-white">
+        @RenderBody()
+    </div>
+
+    
+
+    <footer class="footer">
+        <div class="content has-text-centered">
+            <p>
+                <strong>Readbuk</strong> by <a href="https://pertamina.com">Yoza Wiratama</a>. 2022.
+            </p>
+        </div>
+    </footer>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+

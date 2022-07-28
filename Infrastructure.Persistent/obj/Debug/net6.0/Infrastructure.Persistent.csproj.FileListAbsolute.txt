@@ -1,0 +1,17 @@
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/obj/Debug/net6.0/Infrastructure.Persistent.csproj.AssemblyReference.cache
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/obj/Debug/net6.0/Infrastructure.Persistent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/obj/Debug/net6.0/Infrastructure.Persistent.AssemblyInfoInputs.cache
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/obj/Debug/net6.0/Infrastructure.Persistent.AssemblyInfo.cs
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/obj/Debug/net6.0/Infrastructure.Persistent.csproj.CoreCompileInputs.cache
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/bin/Debug/net6.0/Infrastructure.Persistent.deps.json
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/bin/Debug/net6.0/Infrastructure.Persistent.dll
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/bin/Debug/net6.0/Infrastructure.Persistent.pdb
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/bin/Debug/net6.0/Application.dll
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/bin/Debug/net6.0/Domain.dll
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/bin/Debug/net6.0/Domain.pdb
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/bin/Debug/net6.0/Application.pdb
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/obj/Debug/net6.0/Infrastructure.Persistent.csproj.CopyComplete
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/obj/Debug/net6.0/Infrastructure.Persistent.dll
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/obj/Debug/net6.0/refint/Infrastructure.Persistent.dll
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/obj/Debug/net6.0/Infrastructure.Persistent.pdb
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/obj/Debug/net6.0/ref/Infrastructure.Persistent.dll

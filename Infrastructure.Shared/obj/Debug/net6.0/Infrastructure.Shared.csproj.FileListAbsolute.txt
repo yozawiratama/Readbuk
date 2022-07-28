@@ -1,0 +1,17 @@
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Shared/bin/Debug/net6.0/Infrastructure.Shared.deps.json
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Shared/bin/Debug/net6.0/Infrastructure.Shared.dll
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Shared/bin/Debug/net6.0/Infrastructure.Shared.pdb
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Shared/bin/Debug/net6.0/Application.dll
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Shared/bin/Debug/net6.0/Domain.dll
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Shared/bin/Debug/net6.0/Application.pdb
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Shared/bin/Debug/net6.0/Domain.pdb
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Shared/obj/Debug/net6.0/Infrastructure.Shared.csproj.AssemblyReference.cache
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Shared/obj/Debug/net6.0/Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Shared/obj/Debug/net6.0/Infrastructure.Shared.AssemblyInfoInputs.cache
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Shared/obj/Debug/net6.0/Infrastructure.Shared.AssemblyInfo.cs
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Shared/obj/Debug/net6.0/Infrastructure.Shared.csproj.CoreCompileInputs.cache
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Shared/obj/Debug/net6.0/Infrastructure.Shared.csproj.CopyComplete
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Shared/obj/Debug/net6.0/Infrastructure.Shared.dll
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Shared/obj/Debug/net6.0/refint/Infrastructure.Shared.dll
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Shared/obj/Debug/net6.0/Infrastructure.Shared.pdb
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Shared/obj/Debug/net6.0/ref/Infrastructure.Shared.dll

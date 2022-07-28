@@ -1,0 +1,12 @@
+/Users/yozawiratama/Projects/Readbuk/Domain/bin/Debug/net6.0/Domain.deps.json
+/Users/yozawiratama/Projects/Readbuk/Domain/bin/Debug/net6.0/Domain.dll
+/Users/yozawiratama/Projects/Readbuk/Domain/bin/Debug/net6.0/Domain.pdb
+/Users/yozawiratama/Projects/Readbuk/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/Users/yozawiratama/Projects/Readbuk/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yozawiratama/Projects/Readbuk/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/Users/yozawiratama/Projects/Readbuk/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/Users/yozawiratama/Projects/Readbuk/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/Users/yozawiratama/Projects/Readbuk/Domain/obj/Debug/net6.0/Domain.dll
+/Users/yozawiratama/Projects/Readbuk/Domain/obj/Debug/net6.0/refint/Domain.dll
+/Users/yozawiratama/Projects/Readbuk/Domain/obj/Debug/net6.0/Domain.pdb
+/Users/yozawiratama/Projects/Readbuk/Domain/obj/Debug/net6.0/ref/Domain.dll

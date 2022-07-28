@@ -1,0 +1,17 @@
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/bin/Debug/net6.0/Infrastructure.Persistence.deps.json
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/bin/Debug/net6.0/Infrastructure.Persistence.dll
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/bin/Debug/net6.0/Infrastructure.Persistence.pdb
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/bin/Debug/net6.0/Application.dll
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/bin/Debug/net6.0/Domain.dll
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/bin/Debug/net6.0/Domain.pdb
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/bin/Debug/net6.0/Application.pdb
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/obj/Debug/net6.0/Infrastructure.Persistence.csproj.AssemblyReference.cache
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/obj/Debug/net6.0/Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/obj/Debug/net6.0/Infrastructure.Persistence.AssemblyInfoInputs.cache
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/obj/Debug/net6.0/Infrastructure.Persistence.AssemblyInfo.cs
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/obj/Debug/net6.0/Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/obj/Debug/net6.0/Infrastructure.Persistence.csproj.CopyComplete
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/obj/Debug/net6.0/Infrastructure.Persistence.dll
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/obj/Debug/net6.0/refint/Infrastructure.Persistence.dll
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/obj/Debug/net6.0/Infrastructure.Persistence.pdb
+/Users/yozawiratama/Projects/Readbuk/Infrastructure.Persistent/obj/Debug/net6.0/ref/Infrastructure.Persistence.dll

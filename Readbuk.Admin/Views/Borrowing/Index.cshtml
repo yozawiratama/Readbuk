@@ -1,0 +1,36 @@
+﻿@model List<Application.DTOs.Borrowing.BorrowingItemResponse>
+
+<a asp-action="DownloadExcel">Download Report Excel</a>
+<a asp-action="DownloadPdf">Download Report Pdf</a>
+
+<table class="table">
+    <tr>
+        <th>Judul</th>
+        <th>Code</th>
+        <th>Tanggal Peminjaman</th>
+        <th>Nama Peminjam</th>
+        <th>Status</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.BookTitle</td>
+            <td>@item.BookCode - @item.BookVariantCode</td>
+            <td>@item.BorrowedAt</td>
+            <td>@item.BorrowerName</td>
+            <td>
+                @item.Status @if (item.ReturnedAt != null)
+                {<span> - @item.ReturnedAt</span>}
+            </td>
+            <td>
+                @if (item.ReturnedAt == null)
+                {
+                    <form asp-action="BookReturn" method="post">
+                        <button type="submit">Kembalikan</button>
+                    </form>
+                }
+            </td>
+        </tr>
+    }
+
+</table>
